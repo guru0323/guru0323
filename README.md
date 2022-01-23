@@ -91,7 +91,7 @@ I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | We
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   </a>
   <a href="https://github.com/blackhorse0323">  
-    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&hide=contribs,prs" />
   </a>
 </div>
 
