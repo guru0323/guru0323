@@ -95,7 +95,11 @@ I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | We
   </a>
 </div>
 
-<h1 align="center">Status </h1>
+<h1 align="center">My Github Status </h1>
 <p align="center">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=blackhorse0323&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark" align="center" />
 </p>
+
+<h1 align="center"></h1>
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=blackhorse0323&theme=github&count_private=true" /> 
+<h1 align="center"></h1>
