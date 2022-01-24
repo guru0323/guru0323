@@ -101,5 +101,5 @@ I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | We
 </p>
 
 <h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=blackhorse0323&theme=github" /> 
+ //<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=blackhorse0323&theme=github" /> 
 <h1 align="center"></h1>
