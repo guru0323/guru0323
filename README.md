@@ -96,9 +96,11 @@ I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | We
 </div>
 
 <h1 align="center">My Github Status </h1>
-<p align="center">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=guru0323&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
-</p>
+<p align="center"><a href="https://github.com/htr-tech">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guru0323&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru0323&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
 <h1 align="center"></h1>
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=guru0323&theme=github" /> 
